@@ -171,8 +171,8 @@ export default {
           noticias: [
             {
               id: 301,
-              titulo: 'Avance en Computación Cuántica',
-              detalle: 'Científicos logran estabilizar procesadores por más tiempo batiendo récords de coherencia y abriendo la puerta a la criptografía indescifrable.'
+              titulo: 'Avance en FP-DAM',
+              detalle: 'Investigadores desarrollan un nuevo algoritmo de aprendizaje profundo que predice patrones de tráfico urbano con un 95% de precisión, optimizando rutas en tiempo real.'
             },
             {
               id: 302,
