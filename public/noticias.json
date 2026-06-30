@@ -1,0 +1,17 @@
+[
+  {
+    "categoria": "Historia",
+    "noticias": [
+      {
+        "id": 101,
+        "titulo": "Descubrimiento Arqueológico",
+        "detalle": "Encuentran vasijas..."
+      },
+      {
+        "id": 102,
+        "titulo": "Misterios Ancestrales",
+        "detalle": "Nuevos estudios..."
+      }
+    ]
+  }
+]
